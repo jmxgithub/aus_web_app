@@ -1,0 +1,74 @@
+{
+  "code": "0",
+  "result": {
+    "data": [
+      {
+        "userName":"admin",
+        "name":"admin",
+        "createTime":"2016-12-15 10:21:29",
+        "roleName":["超级管理员"]
+      },
+      {
+        "userName":"zhangsan",
+        "name":"张三",
+        "createTime":"2016-12-15 10:21:30",
+        "roleName":["超级管理员"]
+      },
+      {
+        "name":"李四",
+        "userName":"lisi",
+        "createTime":"2016-12-15 10:21:31",
+        "roleName":["管理员","超级管理员"]
+      },
+      {
+        "userName":"wangwu",
+        "name":"王五",
+        "createTime":"2016-12-15 10:21:32",
+        "roleName":["超级管理员","次级管理员"]
+      },
+      {
+        "userName":"zhaoliu",
+        "name":"赵六",
+        "createTime":"2016-12-15 10:21:33",
+        "roleName":["次级管理员"]
+      },
+      {
+        "userName":"cheng1",
+        "name":"成员1",
+        "createTime":"2016-12-15 10:21:30",
+        "roleName":["管理员"]
+      },
+      {
+        "name":"成员2",
+        "userName":"cheng2",
+        "createTime":"2016-12-15 10:21:31",
+        "roleName":[]
+      },
+      {
+        "userName":"cheng3",
+        "name":"成员3",
+        "createTime":"2016-12-15 10:21:32",
+        "roleName":["管理员","次级管理员"]
+      },
+      {
+        "userName":"cheng4",
+        "name":"成员4",
+        "createTime":"2016-12-15 10:21:33",
+        "roleName":["次级管理员"]
+      },
+      {
+        "userName":"cheng5",
+        "name":"成员5",
+        "createTime":"2016-12-15 10:21:33",
+        "roleName":["管理员"]
+      },
+      {
+        "userName":"cheng6",
+        "name":"成员6",
+        "createTime":"2016-12-15 10:21:33",
+        "roleName":[""]
+      }
+    ]
+  },
+  "msg": ""
+}

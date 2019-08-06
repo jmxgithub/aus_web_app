@@ -1,0 +1,61 @@
+{
+  "code": "0",
+  "result": {
+    "data": [
+      {
+        "roleName": "超级管理员",
+        "member": [{
+          "userName": "zhangsan",
+          "name": "张三"
+        },{
+          "userName": "lisi",
+          "name": "李四"
+        },
+        {
+          "userName": "admin",
+          "name": "admin"
+        },
+        {
+          "userName": "wangwu",
+          "name": "王五"
+        }]
+      },
+      {
+        "roleName": "次级管理员",
+        "member": [{
+          "userName": "wangwu",
+          "name": "王五"
+        },{
+          "userName": "zhaoliu",
+          "name": "赵六"
+        },{
+          "userName": "cheng3",
+          "name": "成员3"
+        },{
+          "userName": "cheng4",
+          "name": "成员4"
+        }]
+      },
+      {
+        "roleName": "管理员",
+        "member": [{
+          "userName": "cheng1",
+          "name": "成员1"
+        },{
+          "userName": "lisi",
+          "name": "李四"
+        },{
+          "userName": "cheng3",
+          "name": "成员3"
+        },{
+          "userName": "cheng5",
+          "name": "成员5"
+        },{
+          "userName": "cheng6",
+          "name": "成员6"
+        }]
+      }
+    ]
+  },
+  "msg": "错了"
+}
