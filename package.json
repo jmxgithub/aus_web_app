@@ -48,7 +48,7 @@
     "eslint-plugin-babel": "^3.2.0",
     "eslint-plugin-react": "^5.0.0",
     "eventsource-polyfill": "^0.9.6",
-    "express": "^4.13.3",
+    "express": "^4.17.3",
     "express-favicon": "^1.0.1",
     "extract-text-webpack-plugin": "^0.9.1",
     "file-loader": "^0.8.4",
